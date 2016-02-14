@@ -1,0 +1,18 @@
+[
+{
+  "modid": "foodmod",
+  "name": "Food Mod",
+  "description": "This mod adds different types of food in minecraft 1.8
+  since i saw there are not a lot of people updating to 1.8 i decided to make this mod to
+  have more variety of food and not just the minecraft vanilla food",
+  "version": "Alpha 1.0",
+  "mcversion": "1.8.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rako100"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
